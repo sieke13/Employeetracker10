@@ -30,10 +30,10 @@ npm start
 ## Notes
 
 > [!NOTE]
-> check the video walkthough https://youtu.be/2-ZjnAK6trU
+> check the video walkthough https://www.youtube.com/watch?v=3Kc-wb_n3G8
 
 > [!IMPORTANT]
-> https://youtu.be/2-ZjnAK6trU
+> https://www.youtube.com/watch?v=3Kc-wb_n3G8
 
 > [!WARNING]
 > none
